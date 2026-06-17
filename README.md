@@ -133,7 +133,11 @@ The railway system is facing increasing **delays and cancellations**, leading to
 * Clear segmentation enables **targeted optimization**
 
 ---
-
+## 🚀 Dashboard 
+![Overview Dashboard](images/Operation.png)
+![Finance Dashboard](images/Finance.png)
+![Customer Dashboard](images/Customer.png)
+---
 ## 🛠 Tools & Skills Demonstrated
 
 * Data Cleaning & Feature Engineering (Pandas)
