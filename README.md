@@ -26,7 +26,7 @@ The project is structured around two main pillars: **minimizing the impact of un
 - **Understanding Travel Behavior** — How do customers travel (trip length, time of day, ticket class), and what add-ons or experience packages could be proposed for each segment?
   - Segmented by: Date/Time of Departure, Trip Length, Ticket Information
 
-### 2.3 Key questions answered in the analysis
+### 2.3 Key questions 
 1. Which factors contribute to the 13% unsuccessful trip rate, and when do they peak?
 2. What are the main reasons behind refund payments, and which ones are the most costly?
 3. What drives the shift in purchase channel (Online vs. Station) over time, and why?
