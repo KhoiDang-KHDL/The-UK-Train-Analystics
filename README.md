@@ -3,7 +3,27 @@
 > Analysis of UK train ticketing and journey data to identify the root causes of delays/cancellations, optimize refund costs, and improve customer satisfaction through customer segmentation.
 
 ---
+## 📑 Table of Contents
 
+- [1. Business Problem](#1-business-problem)
+- [2. Objective](#2-objective)
+- [3. Tools Used](#3-tools-used)
+- [4. Key Results & Recommendations](#4-key-results--recommendations)
+  - [4.1 Operational Insights](#41-operational-insights)
+  - [4.2 Customer Behaviors Insights](#42-customer-behaviors-insights)
+  - [4.2 Strategic Recommendations](#42-strategic-recommendations)
+- [5. Dataset](#5-dataset)
+  - [5.1 About the Dataset](#51-about-the-dataset)
+  - [5.3 Key Metrics / Definitions](#53-key-metrics--definitions)
+  - [5.4 Analytical Framework](#54-analytical-framework)
+- [6. Detailed Analysis](#6-detailed-analysis)
+  - [6.1 A — Minimizing the Effect of Unsuccessful Trips](#61-a--minimizing-the-effect-of-unsuccessful-trips)
+  - [6.2 B — Enhancing Customer Satisfaction via Segmentation](#62-b--enhancing-customer-satisfaction-via-segmentation)
+  - [6.6 Recommendations Summary](#66-recommendations-summary)
+- [🚀 Dashboard](#-dashboard)
+- [📁 Project Structure](#-project-structure)
+
+---
 ## 1. Business Problem
 
 The company has observed an increasing trend of train delays and cancellations, which has led to higher refund costs and lower customer satisfaction. Root-cause analysis is needed to understand *why* trips fail, how customers behave when purchasing tickets and traveling, and how operations can be optimized to reduce financial losses and improve the overall customer experience.
@@ -124,7 +144,7 @@ Each section below pairs a short description of the analysis step with the corre
 
 ---
 
-### 6.2 Pillar B — Enhancing Customer Satisfaction via Segmentation
+### 6.2 B — Enhancing Customer Satisfaction via Segmentation
 
 **6.2.1 Purchase Behavior — by Purchase Type** — Online remains the dominant channel (58.51%), but Station purchases have grown from 32.35% to 41.83% over four months.
 
